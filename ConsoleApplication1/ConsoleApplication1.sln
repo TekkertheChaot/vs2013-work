@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{E3A7A56A-F0CD-4ADE-B931-4458DD7380A5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bankautomat", "ConsoleApplication1\Bankautomat.csproj", "{E3A7A56A-F0CD-4ADE-B931-4458DD7380A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication3", "ConsoleApplication3\ConsoleApplication3.csproj", "{342F77BC-2D97-4135-A54E-EB815F23CE1C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "ConsoleApplication3\TestApp.csproj", "{342F77BC-2D97-4135-A54E-EB815F23CE1C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

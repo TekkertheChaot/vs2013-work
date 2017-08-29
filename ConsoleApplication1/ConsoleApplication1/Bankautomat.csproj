@@ -7,8 +7,8 @@
     <ProjectGuid>{E3A7A56A-F0CD-4ADE-B931-4458DD7380A5}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ConsoleApplication1</RootNamespace>
-    <AssemblyName>ConsoleApplication1</AssemblyName>
+    <RootNamespace>Bankautomat</RootNamespace>
+    <AssemblyName>Bankautomat</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

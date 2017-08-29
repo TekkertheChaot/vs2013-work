@@ -7,8 +7,8 @@
     <ProjectGuid>{33568E89-5330-4590-9E96-BDECB4824F08}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ConsoleApplication2</RootNamespace>
-    <AssemblyName>ConsoleApplication2</AssemblyName>
+    <RootNamespace>ArrayTest</RootNamespace>
+    <AssemblyName>ArrayTest %28Assembly Name%29</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

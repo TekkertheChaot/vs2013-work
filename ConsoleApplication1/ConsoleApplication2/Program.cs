@@ -17,6 +17,7 @@ namespace ArrayTest
 
             Console.WriteLine("{0} {1} \n{2} {3} ", arr[0, 0], arr[0, 1], arr[1, 0], arr[1, 1]);
             Console.WriteLine("Arrays can be fun...");
+            Console.WriteLine("GitGud");
             Console.ReadLine();
         }
     }

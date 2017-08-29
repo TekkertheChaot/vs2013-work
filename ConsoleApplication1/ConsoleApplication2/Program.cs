@@ -16,6 +16,7 @@ namespace ConsoleApplication2
                               arr[1, 0] + arr[1, 1] + "\n\n");
 
             Console.WriteLine("{0} {1} \n{2} {3} ", arr[0, 0], arr[0, 1], arr[1, 0], arr[1, 1]);
+            Console.WriteLine("Arrays can be fun...");
             Console.ReadLine();
         }
     }

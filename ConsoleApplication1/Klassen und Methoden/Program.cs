@@ -45,4 +45,30 @@ namespace Klassen_und_Methoden
             return geldMenge;
         }
     }
+
+    class Kunde
+    {
+        private Int32 pin;
+        private double Balance;
+        public void InitPin(Int32 InitPin)
+        {
+            pin = InitPin;
+        }
+        public void InitBalnce(double InitAmount)
+        {
+            Balance = InitAmount;
+        }
+        public void AddBalance(double Amount)
+        {
+            Balance += Amount;
+        }
+        public void SubBalance(double Amount)
+        {
+            Balance -= Amount;
+        }
+        public double GetBalance()
+        {
+            return Balance;
+        }
+    }
 }

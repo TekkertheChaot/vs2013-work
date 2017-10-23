@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.40629.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bankautomat", "ConsoleApplication1\Bankautomat.csproj", "{E3A7A56A-F0CD-4ADE-B931-4458DD7380A5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayTest", "ConsoleApplication2\ArrayTest.csproj", "{33568E89-5330-4590-9E96-BDECB4824F08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visitenkarte", "Visitenkarte\Visitenkarte.csproj", "{2C4425A4-EFBB-4B8E-93AF-D898AC76C650}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,8 +23,15 @@ Global
 		{33568E89-5330-4590-9E96-BDECB4824F08}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33568E89-5330-4590-9E96-BDECB4824F08}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33568E89-5330-4590-9E96-BDECB4824F08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C4425A4-EFBB-4B8E-93AF-D898AC76C650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C4425A4-EFBB-4B8E-93AF-D898AC76C650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C4425A4-EFBB-4B8E-93AF-D898AC76C650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C4425A4-EFBB-4B8E-93AF-D898AC76C650}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFB5E6CB-F84A-4A44-ACEF-1C7DC6ACF01B}
 	EndGlobalSection
 EndGlobal
